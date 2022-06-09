@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @wiggywunka
+- 👋 Hi, I’m @wiggywunka but I also go by Alex!
 - 👀 I’m interested in iOS, Android, and general web development.
 - 🌱 I’m currently learning iOS mobile development via Unity
-- 💞️ I’m looking to collaborate on nothing at the moment.
+- 💞️ I’m not much for collaboration but don't hesitate to reach out regardless.
 - 📫 How to reach me contact me via my page!
 
 <!---
