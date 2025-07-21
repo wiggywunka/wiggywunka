@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wiggywunka but I also go by Alex!
-- 👀 I’m interested in Android, Web, and Linux software.
+- 👀 I’m interested in iOS, Mac, Windows, and Linux software development / tools.
 - 💞️ I’m not much for collaboration but don't hesitate to reach out regardless.
 
 <!---
