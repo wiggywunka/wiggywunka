@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wiggywunka but I also go by Alex!
 - 👀 I’m interested in iOS, Mac, Windows, and Linux software development / tools.
-- 💞️ I’m not much for collaboration but don't hesitate to reach out regardless.
+- 💞️ I’m in the process of learning, happy to try working together!
 
 <!---
 wiggywunka/wiggywunka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
